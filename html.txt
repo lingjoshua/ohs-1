@@ -1,1 +1,6 @@
+HTML
+
+Week 1 Notes
+
+1. HTML is the structure of a website. (it's the skeleton of a website)
 
